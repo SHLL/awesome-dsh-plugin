@@ -5,4 +5,4 @@ description:
   en: 'Adds a subagent tree tab to every Session: start detached subagents whose Sessions stay outside the window''s subagent catalog, read the native Session tree, and keep a seat ledger.'
   zh: '给每个会话加一格 subagent tree：派分离型子 agent（独立会话，不进窗口的子 agent 目录）、只读查看原生子 agent 树、维护常驻工位台账。'
 icon: https://raw.githubusercontent.com/SHLL/dsh-plugin-subagent-tree/main/assets/icon-180.png
-tarball: https://github.com/SHLL/dsh-plugin-subagent-tree/releases/download/v1.0.1/dsh-plugin-subagent-tree-1.0.1.tgz
+tarball: https://github.com/SHLL/dsh-plugin-subagent-tree/releases/download/v1.0.2/dsh-plugin-subagent-tree-1.0.2.tgz
